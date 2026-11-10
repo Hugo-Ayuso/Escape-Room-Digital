@@ -1,0 +1,1 @@
+# Datos\n\nGuarda aquí configuraciones, mapas de habitaciones y datos de acertijos.\n

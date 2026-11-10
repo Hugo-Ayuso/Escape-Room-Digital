@@ -1,0 +1,1 @@
+# Imágenes\n\nGuarda aquí fondos, ilustraciones, iconos y gráficos de las habitaciones.\n
